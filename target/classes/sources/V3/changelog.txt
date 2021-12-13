@@ -1,0 +1,5 @@
+05/17/2021 V3.4.0
+- Modified default background alpha value and default blend mode
+
+11/30/2017 V3.0.0
+- First official release
